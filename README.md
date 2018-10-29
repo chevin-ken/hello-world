@@ -1,2 +1,4 @@
 # hello-world
-1st repository ever
+Kevin Chen (a.k.a Chevin Ken)
+UC Berkeley EECS 2022
+
